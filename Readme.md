@@ -1,6 +1,6 @@
 # GridView - How to set a group row content using a summary value
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4843)**
+**[[Run Online]](https://codecentral.devexpress.com/e4843/)**
 <!-- run online end -->
 
 
